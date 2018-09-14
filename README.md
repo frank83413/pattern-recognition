@@ -2,9 +2,13 @@
 pattern recognition homework  
 Gradient descent is implemented in work 3-5  
 matlab  
+homework 3  
 ![image](https://raw.githubusercontent.com/frank83413/pattern-recognition/master/img/3-1.jpg)  
 ![image](https://raw.githubusercontent.com/frank83413/pattern-recognition/master/img/3-2.jpg)  
 ![image](https://raw.githubusercontent.com/frank83413/pattern-recognition/master/img/3-3.jpg)  
+
+
+homework 4  
 ![image](https://raw.githubusercontent.com/frank83413/pattern-recognition/master/img/4-1.jpg)  
 ![image](https://raw.githubusercontent.com/frank83413/pattern-recognition/master/img/4-2.jpg)  
 ![image](https://raw.githubusercontent.com/frank83413/pattern-recognition/master/img/4-3.jpg)  
